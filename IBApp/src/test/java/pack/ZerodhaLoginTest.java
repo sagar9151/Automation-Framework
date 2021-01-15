@@ -35,7 +35,7 @@ WebDriver driver;
 	@Test
 	public void buyShare()
 	{
-		System.out.println("Ok");
+		System.out.println("Login Successfull");
 	}
 	@AfterMethod
 	public void logout() throws InterruptedException
